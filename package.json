@@ -1,7 +1,7 @@
 
 {
-  "name": "a-test-app-no-spaces",
-  "description": "spaces are okay here",
+  "name": "VM",
+  "description": "installing vm",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
